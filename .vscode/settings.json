@@ -1,0 +1,22 @@
+{
+    "python.pythonPath": "/Users/extinctcoder/opt/anaconda3/envs/face_recog/bin/python",
+    "cSpell.words": [
+        "CPUs",
+        "CUDA",
+        "LANCZOS",
+        "algo",
+        "alog",
+        "datefmt",
+        "dlib",
+        "imshow",
+        "itertools",
+        "kneighbors",
+        "ndarray",
+        "numpy",
+        "opencv",
+        "pyfiglet",
+        "rects",
+        "sklearn",
+        "utill"
+    ]
+}
